@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.7.5 on win32)" generated="20191218 15:18:25.436" rpa="false">
+<suite id="s1" name="Resource" source="C:\Users\prabeena.panda\PycharmProjects\resource.robot">
+<test id="s1-t1" name="Robot fetch data">
+<kw name="Create folder">
+<kw name="create">
+<msg timestamp="20191218 15:18:25.518" level="FAIL">No keyword with name 'create' found. Did you mean:
+    BuiltIn.Create List</msg>
+<status status="FAIL" starttime="20191218 15:18:25.518" endtime="20191218 15:18:25.518"></status>
+</kw>
+<status status="FAIL" starttime="20191218 15:18:25.518" endtime="20191218 15:18:25.518"></status>
+</kw>
+<status status="FAIL" starttime="20191218 15:18:25.518" endtime="20191218 15:18:25.518" critical="yes">No keyword with name 'create' found. Did you mean:
+    BuiltIn.Create List</status>
+</test>
+<status status="FAIL" starttime="20191218 15:18:25.440" endtime="20191218 15:18:25.534"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Resource">Resource</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20191218 15:18:25.503" level="ERROR">Error in file 'C:\Users\prabeena.panda\PycharmProjects\resource.robot': Test library '..\robo.py' does not exist.</msg>
+</errors>
+</robot>

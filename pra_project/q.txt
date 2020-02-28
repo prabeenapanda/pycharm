@@ -1,0 +1,5 @@
+dic={'classes':[{'python':[{'nag':['07:00am','02:00pm','04:00pm','10:00pm']},\
+        {'siva':['10:00am','05:00pm']}]},{'django':[{'nag':['11:00am','01:00pm']}]}]}
+1.howmany classes by Nag
+2.Howmany python and Jango classes are there in a day
+3.Howmany morning classes are there.

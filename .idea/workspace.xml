@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="233cb60a-f79f-44bd-b756-d6bd2dee2f0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pra_project/gcdlcm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/as==.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aws.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datatyps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iam.txt.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1 (2).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YF5aoqR9nCgywNb9cWB7IIHItr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pra_project/50_select_data.py" />
+  </component>
+  <component name="RunManager" selected="Python.options">
+    <configuration name="coin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pra_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pra_project/coin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="money" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pra_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pra_project/money.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="options" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pra_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pra_project/options.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="right angled pyramid.py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/right angled pyramid.py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangle pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/triangle pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.options" />
+        <item itemvalue="Python.coin" />
+        <item itemvalue="Python.money" />
+        <item itemvalue="Python.triangle pattern" />
+        <item itemvalue="Python.right angled pyramid.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="233cb60a-f79f-44bd-b756-d6bd2dee2f0c" name="Default Changelist" comment="" />
+      <created>1582525567073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582525567073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="97" key="#money" timestamp="1582621691222">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="97" key="#money/0.0.1280.984@0.0.1280.984" timestamp="1582621691222" />
+    <state x="410" y="226" key="FileChooserDialogImpl" timestamp="1582867795007">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="410" y="226" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1582867795007" />
+    <state width="1222" height="233" key="GridCell.Tab.0.bottom" timestamp="1582698677814">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1222" height="233" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1582698677814" />
+    <state width="1222" height="233" key="GridCell.Tab.0.center" timestamp="1582698677814">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1222" height="233" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1582698677814" />
+    <state width="1222" height="233" key="GridCell.Tab.0.left" timestamp="1582698677813">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1222" height="233" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1582698677813" />
+    <state width="1222" height="233" key="GridCell.Tab.0.right" timestamp="1582698677814">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1222" height="233" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1582698677814" />
+    <state x="325" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582867764134">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="325" y="294" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1582867764134" />
+  </component>
+</project>

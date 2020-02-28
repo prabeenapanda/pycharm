@@ -1,0 +1,35 @@
+<html>
+<head>
+    <script>
+        function formm()
+        {
+        var t=document.forms["my"]["n"].value;
+        var r=document.forms["my"]["g"].value;
+        var str="";
+        str=str+t+r;
+        if(document.forms["my"]["l1"].checked)
+        {
+        str=str+document.forms["my"]["l1"].value;
+        }
+        if(document.forms["my"]["l2"].checked)
+        {
+        str=str+document.forms["my"]["l2"].value;
+        }
+        document.write(str);
+        }
+    </script>
+</head>
+<body>
+<form id="my">
+    first name:<input type ="text" id="n">
+
+    <br><br>select gender:<input type="radio" name="gender" id="g" value="male">male
+                 <input type="radio"  name="gender" id="g" value="male">female
+
+    <br><br>Language:<input type="checkbox" id="l1" value="odia">odia
+                     <input type="checkbox" id="l2" value="hindi">hindi
+
+</form>
+<button onclick="formm();">submit</button>
+</body>
+</html>

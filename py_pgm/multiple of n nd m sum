@@ -1,0 +1,10 @@
+#Find the sum of all the multiples of 3 or 5 below 1000
+n=int(input("enter a number:"))
+m=int(input("enter another number:"))
+sum = 0
+for i in range(1,400):
+    if (i*n < 1000 and i*m < 1000):
+        sum= sum + (i*n) + (i*m)
+    else:
+        break
+print(sum)
